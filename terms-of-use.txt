@@ -1,0 +1,89 @@
+# TERMS OF USE – CUSTOM LICENSE
+
+**Last updated: November 3, 2026**
+
+By downloading, installing, or using this texture pack, you acknowledge that you have read and agreed to comply with these Terms of Use.
+
+These terms apply to the entire texture pack, including its files, textures, graphical assets, and other original content belonging to their respective owners.
+
+## 1. Permitted Uses
+
+You are allowed to:
+
+✅ **Modify the texture pack** for personal use.
+
+✅ **Use the original version** in single-player or on a Minecraft server, both client-side and server-side.
+
+✅ **Use a modified version in single-player**, without any particular restrictions regarding client-side installation.
+
+✅ **Use a modified version on your own server**, provided that it is installed and distributed exclusively server-side (*Server Resource Pack Only*).
+
+## 2. Prohibited Uses
+
+The following activities are strictly prohibited unless prior written permission has been granted by the author.
+
+❌ **Redistributing or republishing the project.**
+
+You may not republish, rehost, upload, or make the texture pack publicly available, whether modified or unmodified.
+
+❌ **Sharing the texture pack as a file.**
+
+You may not distribute the texture pack as a file, whether in its original or modified version, even for free or through private messages.
+
+To obtain the original version, each user must download it through the official distribution platforms: CurseForge or Modrinth, depending on the project's availability.
+
+*Please note that not all versions of the project may be available on Modrinth.*
+
+❌ **Deleting or modifying the `terms-of-use.txt` file.**
+
+You may not delete, modify, replace, or move this file while the texture pack is being used or kept.
+
+This restriction does not apply when deleting the entire texture pack during uninstallation.
+
+❌ **Using a modified version client-side on a server.**
+
+Any modified version intended for use on a Minecraft server must be installed and distributed server-side only (*Server Resource Pack Only*).
+
+Using a modified version directly on the client when playing on a server is prohibited.
+
+## 3. Automatic Distribution on Servers
+
+When using an authorized modified version on your own server, automatic distribution of the texture pack to players joining the server is permitted.
+
+This permission is strictly limited to the use of the texture pack on the relevant server. It does not grant permission to independently redistribute the project.
+
+## 4. Intellectual Property
+
+The texture pack and its original assets remain the property of their respective rights holders.
+
+Downloading or using the project does not constitute a transfer of copyright or intellectual property ownership.
+
+The permissions granted under these terms constitute a limited, non-exclusive, personal, and non-transferable license.
+
+No additional rights are granted beyond those expressly stated in this document.
+
+Third-party assets remain subject to the rights and licenses of their respective owners.
+
+## 5. Compliance with These Terms
+
+Any use of the texture pack that does not comply with these Terms of Use may constitute a violation of the granted license and, depending on the circumstances, applicable intellectual property laws.
+
+The author reserves the right to request that unauthorized use cease and to enforce their rights through appropriate legal channels.
+
+## 6. Changes to These Terms
+
+The author reserves the right to modify these Terms of Use.
+
+Updated terms will be published alongside the project and will include their revision date.
+
+## 7. Governing Law
+
+These Terms of Use are governed by Belgian law, without prejudice to mandatory legal provisions applicable in the user's country of residence and relevant European Union regulations.
+
+In the event of a dispute, jurisdiction shall be determined in accordance with applicable legal rules.
+
+---
+
+**© All Rights Reserved.**
+
+Thank you for respecting the work and the Terms of Use associated with this project.

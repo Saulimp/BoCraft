@@ -1,0 +1,89 @@
+# TERMS OF USE – CONDITIONS D'UTILISATION
+
+**Dernière mise à jour : 3 novembre 2026 vers 15h55**
+
+En téléchargeant, installant ou utilisant ce texture pack, vous reconnaissez avoir pris connaissance des présentes conditions d'utilisation et acceptez de les respecter.
+
+Ces conditions s'appliquent à l'ensemble du texture pack, y compris ses fichiers, textures, éléments graphiques et autres contenus originaux appartenant à son auteur.
+
+## 1. Utilisations autorisées
+
+Vous êtes autorisé à :
+
+✅ **Modifier le texture pack** pour votre usage personnel.
+
+✅ **Utiliser la version originale** en solo ou sur un serveur Minecraft, aussi bien côté client que côté serveur.
+
+✅ **Utiliser une version modifiée en solo**, sans restriction particulière concernant son installation côté client.
+
+✅ **Utiliser une version modifiée sur votre propre serveur**, à condition que celle-ci soit installée et distribuée exclusivement côté serveur (*Server Resource Pack Only*).
+
+## 2. Utilisations interdites
+
+Les utilisations suivantes sont strictement interdites, sauf autorisation écrite préalable de l'auteur.
+
+❌ **Redistribuer ou republier le projet.**
+
+Il est interdit de republier, réhéberger, mettre en téléchargement ou rendre public le texture pack, qu'il soit original ou modifié.
+
+❌ **Partager le texture pack sous forme de fichier.**
+
+Il est interdit de distribuer le texture pack, que ce soit dans sa version originale ou modifiée, même gratuitement ou à titre privé.
+
+Pour obtenir la version originale, chaque utilisateur doit obligatoirement passer par les plateformes officielles de téléchargement : CurseForge ou Modrinth, selon la disponibilité du projet.
+
+*Attention : toutes les versions du projet ne sont pas nécessairement disponibles sur Modrinth.*
+
+❌ **Supprimer ou modifier le fichier `terms-of-use.txt`.**
+
+Il est interdit de supprimer, modifier, remplacer ou déplacer ce fichier lorsqu'il fait partie du texture pack utilisé ou conservé.
+
+Cette restriction ne s'applique évidemment pas à la suppression complète du texture pack lors de sa désinstallation.
+
+❌ **Utiliser une version modifiée côté client sur un serveur.**
+
+Toute version modifiée destinée à être utilisée sur un serveur doit obligatoirement être installée et distribuée côté serveur (*Server Resource Pack Only*).
+
+L'utilisation d'une version modifiée directement côté client sur un serveur est interdite.
+
+## 3. Transmission automatique sur les serveurs
+
+Dans le cadre de l'utilisation autorisée d'une version modifiée sur votre propre serveur, sa transmission automatique aux joueurs qui rejoignent le serveur est autorisée.
+
+Cette autorisation est limitée à l'utilisation du texture pack sur le serveur concerné. Elle ne constitue en aucun cas une autorisation de redistribution indépendante du projet.
+
+## 4. Propriété intellectuelle
+
+Le texture pack et ses éléments originaux restent la propriété de leurs titulaires respectifs.
+
+Le téléchargement ou l'utilisation du projet ne constitue pas une cession de droits d'auteur ou de propriété intellectuelle.
+
+Les autorisations accordées dans les présentes conditions constituent une licence d'utilisation limitée, non exclusive, personnelle et non transférable.
+
+Aucun droit supplémentaire n'est accordé en dehors de ceux expressément mentionnés dans ce document.
+
+Les éléments appartenant à des tiers restent soumis aux droits et licences de leurs titulaires respectifs.
+
+## 5. Respect des conditions
+
+Toute utilisation du texture pack qui ne respecte pas les présentes conditions peut constituer une violation de la licence accordée et, selon les circonstances, des droits de propriété intellectuelle applicables.
+
+L'auteur se réserve le droit de demander la cessation d'une utilisation non autorisée et de faire valoir ses droits par les voies légales appropriées.
+
+## 6. Modifications des conditions
+
+L'auteur se réserve le droit de modifier les présentes conditions d'utilisation.
+
+Les nouvelles conditions seront publiées avec le projet et indiqueront leur date de mise à jour.
+
+## 7. Droit applicable
+
+Les présentes conditions sont soumises au droit belge, sans préjudice des dispositions impératives applicables dans le pays de résidence de l'utilisateur et des règles européennes applicables.
+
+En cas de litige, les juridictions compétentes seront déterminées conformément aux règles légales applicables.
+
+---
+
+**© Tous droits réservés.**
+
+Merci de respecter le travail et les conditions d'utilisation liées à ce projet.
